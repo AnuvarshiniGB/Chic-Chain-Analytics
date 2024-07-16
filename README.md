@@ -8,13 +8,13 @@ In this supply chain analytics analysis, the challenge was dealing with a datase
 
 Here is a dataset we collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
 
-Product Type
-SKU
-Price
-Availability
-Number of products sold
-Revenue generated
-Customer demographics
+Product Type -
+SKU -
+Price -
+Availability -
+Number of products sold -
+Revenue generated -
+Customer demographics -
 Stock levels
 Lead times
 Order quantities
